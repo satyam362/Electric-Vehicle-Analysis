@@ -32,6 +32,4 @@ The goal of this project is to:
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your dashboard here by uploading an image and linking it below:
-
-![Electric Vehicle Dashboard Preview](screenshot.png)
+![Electric Vehicle Dashboard Preview](Screenshot%202025-04-26%20135930.png)
